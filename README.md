@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @suhasreddy1155
+- 👋 Hi, I’m @suhasreddy
 - 👀 I’m interested in multiple domains, mainly AI and BlockChain
 - 🌱 I’m currently learning BlockChain
 - 💞️ I’m looking to collaborate on ...
