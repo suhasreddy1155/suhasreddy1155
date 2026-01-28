@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @suhasreddy
-- 👀 I’m interested in multiple domains, mainly AI and BlockChain
-- 🌱 I’m currently learning BlockChain
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in multiple domains, mainly AI and Software Design
+- 🌱 I’m currently learning many new things
 - 📫 How to reach me ...penubakasuhasreddy@gmail.com
 
 <!---
