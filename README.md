@@ -2,7 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Suhas%20Reddy%20Penubaka&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20engineer%20%C2%B7%20builds%20things%20that%20have%20to%20stay%20correct&descAlignY=58&descSize=18)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=640&lines=Events+repeat.+Records+change.+Services+disagree.;I+build+for+that.;Weekends%3A+a-SYnc+%C2%B7+one+song%2C+every+streaming+service)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=640&lines=Events+repeat.+Records+change.+Services+disagree.;I+build+for+that.;Weekends%3A+a-SYnc+%C2%B7+one+link%2C+any+platform)](https://git.io/typing-svg)
 
 </div>
 
@@ -10,7 +10,7 @@
 $ suhas --status
 
 [ OK ]  day job .......... backend engineer, distributed financial systems (C# / .NET / Kafka)
-[ OK ]  side project ..... a-SYnc, a stateless link that opens a song on whatever service you use
+[ OK ]  side project ..... a-SYnc, a stateless entity resolver that maps the same thing across platforms; music first
 [ .. ]  current rabbit hole  when is a cached answer still true after the data behind it changes?
 [ OK ]  paper ............ one IEEE conference paper on named entity recognition, first author
 
@@ -20,7 +20,7 @@ mood: curious. uptime: 3 years in production.
 ## ⚡ Now
 
 - 💼 Senior Software Engineer at PBPartners (Policybazaar Group)
-- 🎵 Building **[a-SYnc](https://a-sync.co)**: paste a link from one streaming service, get one that opens on any of them
+- 🎵 Building **[a-SYnc](https://a-sync.co)**: one link that resolves to the same item on any platform, starting with songs across streaming services
 - 🔍 Reading about caching, consistency, and how systems know when their answers go stale
 
 ## 🧰 Stack
