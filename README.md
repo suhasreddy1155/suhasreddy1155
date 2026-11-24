@@ -1,30 +1,27 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Suhas%20Reddy%20Penubaka&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Senior%20Software%20Engineer%20%C2%B7%20Distributed%20Financial%20Systems&descAlignY=58&descSize=18)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Suhas%20Reddy%20Penubaka&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20engineer%20%C2%B7%20builds%20things%20that%20have%20to%20stay%20correct&descAlignY=58&descSize=18)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=640&lines=Keeping+money+workflows+correct+under+real+conditions;Events+repeat.+Records+change.+Services+disagree.;Built+ORBIT+%C2%B7+Built+a-SYnc+%C2%B7+IEEE+IConSCEPT+2023)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=640&lines=Events+repeat.+Records+change.+Services+disagree.;I+build+for+that.;Weekends%3A+a-SYnc+%C2%B7+one+song%2C+every+streaming+service)](https://git.io/typing-svg)
 
 </div>
 
 ```text
 $ suhas --status
 
-[ OK ]  revenue computation ............ redesigned, accuracy ~99%
-[ OK ]  insurer reconciliation ......... pipeline live, rule-based validation
-[ OK ]  payout recovery (Kafka) ........ idempotent, deduplicated
-[ OK ]  ORBIT ........................... LLM analytics, entity resolution separated from generation
-[ .. ]  cached answers .................. revalidation policy under study
-[ OK ]  a-SYnc .......................... stateless, signed links, https://a-sync.co
+[ OK ]  day job .......... backend engineer, distributed financial systems (C# / .NET / Kafka)
+[ OK ]  side project ..... a-SYnc, a stateless link that opens a song on whatever service you use
+[ .. ]  current rabbit hole  when is a cached answer still true after the data behind it changes?
+[ OK ]  paper ............ one IEEE conference paper on named entity recognition, first author
 
-uptime: 3 years at PBPartners (Policybazaar Group), trainee -> senior engineer
+mood: curious. uptime: 3 years in production.
 ```
 
-## ⚡ Currently
+## ⚡ Now
 
-- 💼 **Senior Software Engineer @ PBPartners (Policybazaar Group)**, motor insurance revenue, reconciliation and payout systems
-- 🔍 Thinking about one question: when is a cached answer still true after the data behind it changes?
-- 📄 First author, *Named Entity Recognition using Multiple Smaller LSTM in Parallel Recurrent Neural Networks*, IEEE IConSCEPT 2023
-- 🎓 B.Tech CSE, VIT Chennai
+- 💼 Senior Software Engineer at PBPartners (Policybazaar Group)
+- 🎵 Building **[a-SYnc](https://a-sync.co)**: paste a link from one streaming service, get one that opens on any of them
+- 🔍 Reading about caching, consistency, and how systems know when their answers go stale
 
 ## 🧰 Stack
 
@@ -40,7 +37,6 @@ uptime: 3 years at PBPartners (Policybazaar Group), trainee -> senior engineer
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=suhasreddy1155&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 ![Streak](https://streak-stats.demolab.com?user=suhasreddy1155&theme=tokyonight&hide_border=true)
 
 </div>
@@ -56,6 +52,7 @@ uptime: 3 years at PBPartners (Policybazaar Group), trainee -> senior engineer
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer)
 
 </div>
+
 
 <!---
 suhasreddy1155/suhasreddy1155 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
