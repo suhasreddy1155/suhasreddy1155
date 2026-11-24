@@ -4,8 +4,6 @@ Senior Software Engineer at PBPartners (Policybazaar Group). I build the revenue
 
 Recently built ORBIT, an internal LLM-based analytics tool, and a-SYnc (https://a-sync.co), a stateless service that maps a song across streaming platforms.
 
-First author, "Named Entity Recognition using Multiple Smaller LSTM in Parallel Recurrent Neural Networks," IEEE IConSCEPT 2023.
-
 C#, .NET, Python, SQL, Kafka. LinkedIn: https://www.linkedin.com/in/suhas-reddy-p-635033195/
 
 <!---
